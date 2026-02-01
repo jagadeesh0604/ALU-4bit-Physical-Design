@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "alu_4bit",
+    "VERILOG_FILES": "dir::src/alu_4bit.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 100 100",
+    "PL_TARGET_DENSITY": 0.5
+}
